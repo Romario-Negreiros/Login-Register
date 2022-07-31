@@ -3,13 +3,13 @@
   <br />
   <p>Projeto desenvolvido durante o curso de Bootstrap 5 do Matheus Battisti na Udemy.</p>
   <br />
-  <div style="max-width: 300px;">
-    Login page preview
-    <img src="assets/login-preview.png" alt="Login page preview" />
+  <div>
+    <p>Login page preview</p>
+    <img src="assets/login-preview.png" alt="Login page preview" width="683px" height="321.5px" />
   </div>
   <br />
   <div>
-    Register page preview
-    <img src="assets/register-preview.png" alt="Register page preview" />
+    <p>Register page preview</p>
+    <img src="assets/register-preview.png" alt="Register page preview" width="683px" height="376px" />
   </div> 
 </div>
